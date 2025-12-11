@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | Fashion Looks™</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        a {
+            color: #e63946;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        header {
+            background-color: #1d3557;
+            padding: 20px;
+            text-align: center;
+            color: #fff;
+        }
+        header img {
+            max-height: 60px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 30px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1d3557;
+            margin-bottom: 15px;
+        }
+        h2 {
+            color: #457b9d;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+        p, ul {
+            margin-bottom: 15px;
+            line-height: 1.7;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #1d3557;
+            color: #fff;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://fashionlooks.co.in/logo.png" alt="Fashion Looks™ Logo">
+        <h2>Fashion Looks™</h2>
+    </header>
+
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+        <h2>1. Introduction</h2>
+        <p>Fashion Looks™ (“we,” “our,” or “us”) values your privacy and is committed to protecting the personal information you provide. This Privacy Policy explains how we collect, use, and safeguard your information when you access our website <a href="https://fashionlooks.co.in">fashionlooks.co.in</a> or use our services.</p>
+
+        <h2>2. Information We Collect</h2>
+        <ul>
+            <li><strong>Personal Information:</strong> Name, email, phone number, payment details, government-issued ID (if required).</li>
+            <li><strong>Non-Personal Information:</strong> Browser type, IP address, device info, pages visited.</li>
+            <li><strong>Cookies & Tracking:</strong> To enhance user experience and improve site functionality.</li>
+        </ul>
+
+        <h2>3. How We Use Your Information</h2>
+        <ul>
+            <li>Provide and manage our services.</li>
+            <li>Process payments and fulfill orders.</li>
+            <li>Send updates, promotions, and important information.</li>
+            <li>Improve website functionality and user experience.</li>
+            <li>Comply with legal obligations and prevent fraud.</li>
+        </ul>
+
+        <h2>4. Sharing Your Information</h2>
+        <p>We do not sell or rent your personal information. Your information is only used internally for service delivery, legal compliance, or protection of our rights and safety.</p>
+
+        <h2>5. Data Security</h2>
+        <p>We implement technical and organizational measures to protect your information from unauthorized access, alteration, disclosure, or destruction.</p>
+
+        <h2>6. Your Rights</h2>
+        <ul>
+            <li>Access and correct your personal information.</li>
+            <li>Request deletion of your personal information.</li>
+            <li>Opt out of marketing communications.</li>
+            <li>Withdraw consent where processing is based on consent.</li>
+        </ul>
+
+        <h2>7. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy periodically. Changes will be posted on this page with the updated effective date.</p>
+
+        <h2>8. Contact Us</h2>
+        <p>For questions regarding this Privacy Policy or your data, contact us at: <a href="mailto:amitsingh881024@icloud.com">amitsingh881024@icloud.com</a></p>
+    </div>
+
+    <footer>
+        &copy; 2025 Fashion Looks™. All rights reserved.
+    </footer>
+</body>
+</html>
